@@ -117,6 +117,7 @@ img{
         flex-wrap: wrap;
     }
     .container{
+        width: 42vw;
         grid-template-rows: repeat(3,14vw);
         grid-template-columns: repeat(3,14vw);
     }
@@ -133,6 +134,7 @@ img{
         flex-wrap: wrap;
     }
     .container{
+        width: 60vw;
         grid-template-rows: repeat(3,20vw);
         grid-template-columns: repeat(3,20vw);
     }
